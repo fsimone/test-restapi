@@ -1,11 +1,32 @@
 {
-  "posts": [
+  "totems": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Totem Poste Bari",
+      "repo" : {
+                  "saldo" : "334,76 euro",
+                  "log": ["0",0",0"]
+               }
+    },
+    {
+      "id": 2,
+      "name": "Totem Poste Lecce",
+      "repo" : {
+                  "saldo" : "27,77 euro",
+                  "log": ["0",0",0"]
+               }
+    },
+   {
+      "id": 3,
+      "name": "Totem Poste Foggia",
+      "repo" : {
+                  "saldo" : "0,00 euro",
+                  "log": ["0",0",0"]
+               }
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "version": {
+    "restapi": "1.0",
+    "hardware": "1.0"
   }
 }
