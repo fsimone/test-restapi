@@ -2,10 +2,8 @@
 	"totems": [
 		{
 			"id": 1,
-			"name": "Totem Poste Bari",
-			"repo": {
-				
-			}
+			"name": "Totem Poste Bari"
+			
 		}
 	]
 }
