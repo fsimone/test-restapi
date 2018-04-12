@@ -1,3 +1,6 @@
 {
-	"totems": {}
+	"totems": {
+		"page" : 1,
+		"result" : []
+	}
 }
