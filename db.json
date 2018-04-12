@@ -1,6 +1,4 @@
 {
-	"totems": {
-		"page" : 1,
-		"result" : []
-	}
+	"page" : 1,
+	"result" : [{"name": "totem1"},{"name": "totem2"}]
 }
