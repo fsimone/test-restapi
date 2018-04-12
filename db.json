@@ -1,16 +1,3 @@
 {
-	"totems": [
-		{
-			"id": 1,
-			"name": "Totem Poste Bari"
-		},
-		{
-			"id": 2,
-			"name": "Totem Poste Lecce"
-		},
-		{
-			"id": 3,
-			"name": "Totem Poste Foggia"
-		}
-	]
+	"totems": {}
 }
