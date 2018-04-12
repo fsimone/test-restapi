@@ -2,7 +2,10 @@
 	"totems": [
 		{
 			"id": 1,
-			"name": "Totem Poste Bari"
+			"name": "Totem Poste Bari",
+			"repo": {
+				"saldo": "334,76 euro"
+			}
 			
 		}
 	]
