@@ -1,6 +1,6 @@
 {
 	
-"totems": [
+	"totems": [
      {
        "id": 1,
       "name": "Totem Poste Bari"
@@ -12,12 +12,25 @@
       
     },
     {
-      "id": 3,
-      "name": "Totem Poste Foggia"   
-   },
+       "id": 3,
+      "name": "Totem Poste Bari"
+      
+    },
     {
       "id": 4,
-      "name": "Totem Poste Foggia"   
-   }
-  ]
+      "name": "Totem Poste Bisceglie"
+      
+    },
+    {
+       "id": 5,
+      "name": "Totem Poste Molfetta"
+      
+    },
+    {
+      "id": 6,
+      "name": "Totem Poste Trani"
+      
+    }
+     ]
 }
+	
